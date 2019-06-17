@@ -1,6 +1,17 @@
 
 # DeVault Development Blog since Testnet Launch
 
+June 15
+
+* More refactoring of Amount class & related code.
+* Discovered and fixed issue that would have led to large % errors in some reward amounts
+* Update unit tests
+* Removed dead code
+* Fix builds without wallet (ENABLE_WALLET) for non-QT targets
+* Pull in about 90-100 bitcoin/bitcoin-abc updates
+* Fix issue with getmyrewardinfo showing wrong estimated dates
+
+
 June 8
 
 * Reworked amount class related code

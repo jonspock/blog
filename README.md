@@ -1,6 +1,16 @@
 
 # DeVault Development Blog since Testnet Launch
 
+June 22
+
+* Better handling version info for CMake builds + updated comments
+* Fixed cmake unit tests
+* Add a class to allow timing code/functions
+* Various ABC updates
+* add to display estimated reward block for getmyrewardinfo
+* Handle negative amounts properly in amount::ToString() and other amount changes
+* add code to check for updated releases in client
+
 June 15
 
 * More refactoring of Amount class & related code.

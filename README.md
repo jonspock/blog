@@ -1,6 +1,18 @@
 
 # DeVault Development Blog since Testnet Launch
 
+July 6
+
+* Setup all unit tests to use cmake/ctest/catch2
+
+
+June 29
+
+* Refactoring wallet for HDChain handling and other stuff
+* Change unit test setup to use cmake/ctest
+* Added support for 24 word mnemonics
+* Various ABC updates
+
 June 22
 
 * Better handling version info for CMake builds + updated comments

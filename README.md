@@ -1,6 +1,15 @@
 
 # DeVault Development Blog since Testnet Launch
 
+July 13
+
+* Add ability to use 24 word phrases from command line for new wallets
+* Several upstream merge commits
+* Fix/update several unit tests
+* Fix consensus issue whereby client halted rather than rejecting invalid incoming blocks and continuing on
+* Added getrewardinfo RPC command
+* Upgraded QT code to avoid deprecated warning
+
 July 6
 
 * Setup all unit tests to use cmake/ctest/catch2

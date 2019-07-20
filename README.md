@@ -1,6 +1,13 @@
 
 # DeVault Development Blog since Testnet Launch
 
+July 20
+
+* Added RPC command `getdifficulties` to allow examining average block times and difficulty changes over time
+* std::filesystem fixes
+* update getrewardinfo
+* worked on BreadWallet IOS app and Electron Cash clone
+
 July 13
 
 * Add ability to use 24 word phrases from command line for new wallets

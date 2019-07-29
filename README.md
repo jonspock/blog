@@ -1,6 +1,20 @@
 
 # DeVault Development Blog since Testnet Launch
 
+July 27
+
+* Add unlock wallet to menu
+* Add reveal word phrase to menu
+* Integrate/review new word phrase GUI update, that allows restoring 12 or 24 word phrase wallets as well as automating process to check user has written down initial phrase for new wallets
+* Fix cmake compile for Catalina on MacOS
+* Fix deprecated QT code
+* Add filtering options for transactions to show Rewards/Budgets
+* Created Breadwallet iOS DeVault clone that can send/receive transactions
+* Worked on ElectronCash DeVault clone and integrated DeVault functionality to allow rx/tx transactions
+* Tested iphone version of ElectronCash clone for DeVault
+* various other changes/fixes
+
+
 July 20
 
 * Added RPC command `getdifficulties` to allow examining average block times and difficulty changes over time
